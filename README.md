@@ -89,7 +89,7 @@ public class hola {
 La página de MarkDown [MarkDown](https://markdownguide.org)
 
 # Enlaces a otros elementos del mismo documento
-[Mismo Documento](/MiHelp/Mismodocumento.md#hola)
+[Mismo Documento](/Mismodocumento.md#hola)
 
 # Imágenes externas
 ![Hola](Hola.png)
@@ -130,5 +130,6 @@ $$ \int_0^\infty e^{-x^2} dx = \frac{\sqrt{\pi}}{2} $$
 
 # Referencias al pie
 Google LLC (pronunciado /ˈɡuːɡəl/ (escucharⓘ), más conocida como Google) es una empresa de tecnología multinacional con sede en California, Estados Unidos, que se centra en inteligencia artificial, publicidad en línea, tecnología de motores de búsqueda, computación en la nube, software, computación cuántica, comercio electrónico y electrónica de consumo.[^2] Es una de las marcas más valiosas del mundo debido a su dominio del mercado, recopilación de datos y ventajas tecnológicas en el campo de la inteligencia artificial. Es considerada una de las cinco grandes compañías tecnológicas junto con Apple, Amazon, Microsoft y Meta Platforms.
+
 
 [^2]:  16 de enero de 2015. Archivado desde el original el 16 de enero de 2015. Consultado el 13 de septiembre de 2018.
