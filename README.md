@@ -89,7 +89,7 @@ public class hola {
 La página de MarkDown [MarkDown](https://markdownguide.org)
 
 # Enlaces a otros elementos del mismo documento
-[Mismo Documento](/MiHelp/Mismodocumento.md#hola)
+[Mismo Documento](#mihelp)
 
 # Imágenes externas
 ![Hola](Hola.png)
